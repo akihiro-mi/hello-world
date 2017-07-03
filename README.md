@@ -1,1 +1,1 @@
-![title](https://github.com/akihiro-mi/hello-world/wiki/images/BRDFmeasurement.png)
+![title](https://github.com/akihiro-mi/hello-world/hello-world.wiki/images/BRDFmeasurement.png)
